@@ -1,0 +1,4 @@
+AWSTemplateFormatVersion: 2010-09-09
+
+Description: Provisioning of 2 EC2 Instances within a Custom Network via Cloudformation
+
